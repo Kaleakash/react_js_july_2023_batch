@@ -1,0 +1,1 @@
+export let NotFound = ()=><div>Not Found Component</div>

@@ -1,0 +1,1 @@
+export let Sub2 = ()=><div>Sub2 Componet</div>
